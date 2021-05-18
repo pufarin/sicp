@@ -12,3 +12,7 @@
 * Kill a buffer **C-x k** + buffer name
 * Cancel command **C-g**
 * To open the REPL **M-x** + run-scheme 
+
+### Scheme
+* One line comment use **;**
+* Multiline comment use **#|** and **|#**
